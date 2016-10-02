@@ -1,0 +1,4 @@
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct2\bin\Release\Struct2.exe
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct2\bin\Release\Struct2.pdb
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct2\obj\Release\Struct2.exe
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct2\obj\Release\Struct2.pdb

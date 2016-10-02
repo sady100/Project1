@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: Struct1, Configuration: Debug Any CPU ------
+2>------ Build started: Project: Struct2, Configuration: Debug Any CPU ------
+2>  Struct2 -> C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct2\bin\Debug\Struct2.exe
+1>  Struct1 -> C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct1\bin\Debug\Struct1.exe
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

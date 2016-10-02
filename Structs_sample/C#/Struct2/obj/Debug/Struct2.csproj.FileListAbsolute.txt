@@ -1,0 +1,5 @@
+C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct2\bin\Debug\Struct2.exe
+C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct2\bin\Debug\Struct2.pdb
+C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct2\obj\Debug\Struct2.csprojResolveAssemblyReference.cache
+C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct2\obj\Debug\Struct2.exe
+C:\Jenkins\CustomerInfoDetails\Structs Sample\C#\Struct2\obj\Debug\Struct2.pdb
