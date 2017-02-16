@@ -1,0 +1,5 @@
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct1\bin\Release\Struct1.exe
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct1\bin\Release\Struct1.pdb
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct1\obj\Release\Struct1.csprojResolveAssemblyReference.cache
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct1\obj\Release\Struct1.exe
+C:\Jenkins\CustomerInfoDetails\Structs_sample\C#\Struct1\obj\Release\Struct1.pdb
